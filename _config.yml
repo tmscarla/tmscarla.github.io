@@ -21,26 +21,26 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 6
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # hackerrank: your_username
+  hackerrank: tmscarla
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: tommasoscarlatti
   # mastodon: your_username
-  # medium: your_username
+  medium: tmscarla
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: tmscarla
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
