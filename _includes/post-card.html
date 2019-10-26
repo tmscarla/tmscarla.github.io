@@ -1,14 +1,14 @@
 <div class="height-full text-left {% if site.style == 'dark' %}box-shadow{% else %}border border-gray-light{% endif %} bg-white rounded-1 p-3">
-  <div class="d-flex flex-justify-between flex-items-start mb-1">
-    <h1 class="f4 lh-condensed mb-1">
+  <div class="mb-1">
+    <h1 class="f3 lh-condensed mb-1">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
     <hr>
     <p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">
-    	Welcome to my personal space! I'm Tommaso Scarlatti.
-	</p>
+      {{ post.preview }}
+    </p>
   </div>
   <div class="text-gray mb-2 ws-normal">{{ post.date | date: "%b %d, %Y"}}</div>
 </div>
