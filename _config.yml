@@ -48,7 +48,7 @@ social_media:
 
 topics:
   - name: Publications
-    web_url: https://github.com/topics/css
+    web_url: publications
     image_url: img/publications.png
 
   - name: Datashack 2019
