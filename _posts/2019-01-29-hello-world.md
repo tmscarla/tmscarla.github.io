@@ -1,7 +1,7 @@
 ---
 title: "Welcome!"
 published: true
-preview: "Hello this is a simple preview"
+preview: "Hello this is a simple preview of a post. It should be short and capture the meaning of the post."
 ---
 
 **Hello!**, this is my first blog post.
