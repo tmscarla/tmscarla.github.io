@@ -52,10 +52,10 @@ topics:
     image_url: img/publications.png
 
   - name: Datashack 2019
-    web_url: datashack.html
+    web_url: datashack
     image_url: img/polimi_harvard.png
 
   - name: Spotify RecSys Challenge 2018
-    web_url: spotify_recsys.html
+    web_url: spotify_recsys
     image_url: https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png
 
