@@ -5,6 +5,9 @@
         {{ post.title }}
       </a>
     </h1>
+    <p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">
+    	Welcome to my personal space! I'm Tommaso Scarlatti.
+	</p>
   </div>
   <div class="text-gray mb-2 ws-normal">{{ post.date | date: "%b %d, %Y"}}</div>
 </div>
