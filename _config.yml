@@ -51,9 +51,13 @@ topics:
     web_url: publications
     image_url: img/publications.png
 
+  - name: Slides
+    web_url: slides
+    image_url: img/slides.png
+
   - name: Datashack 2019
     web_url: datashack
-    image_url: img/polimi_harvard.png
+    image_url: img/iacs.png
 
   - name: Spotify RecSys Challenge 2018
     web_url: spotify_recsys
