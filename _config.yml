@@ -8,6 +8,8 @@ plugins:
 
 permalink: /:year/:month/:day/:title/
 
+markdown: kramdown
+
 defaults:
   -
     scope:
