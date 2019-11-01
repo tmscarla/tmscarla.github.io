@@ -1,3 +1,10 @@
+---
+title: "Instructions!"
+published: true
+preview: "Hello this is a simple preview of a post. It should be short (max 3 rows) and capture the meaning of the post."
+---
+
+
 # Get started building your personal website
 
 ### Showcase your software development skills
