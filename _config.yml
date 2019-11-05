@@ -27,7 +27,7 @@ projects:
   exclude:
     archived: false
     forks: false
-    projects:
+    projects: 
     # - repo-name
 
 social_media:

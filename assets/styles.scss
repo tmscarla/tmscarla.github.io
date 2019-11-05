@@ -52,3 +52,12 @@
 .min-height-full {
   min-height: 100vh;
 }
+
+.social-button {
+  border-bottom: 2px solid transparent;
+  transition: 0.3s;
+}
+
+.social-button:hover {
+  border-bottom: 2px solid #959DA5;
+}
