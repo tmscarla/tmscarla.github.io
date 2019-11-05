@@ -23,11 +23,11 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 6
+  limit: 4
   exclude:
     archived: false
     forks: false
-    projects: 
+    projects:
     # - repo-name
 
 social_media:
