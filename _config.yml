@@ -49,14 +49,6 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Publications
-    web_url: publications
-    image_url: img/publications.png
-
-  - name: Slides
-    web_url: slides
-    image_url: img/slides.png
-
   - name: Datashack 2019
     web_url: datashack
     image_url: img/iacs.png
@@ -64,4 +56,14 @@ topics:
   - name: Spotify RecSys Challenge 2018
     web_url: spotify_recsys
     image_url: https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png
+
+  - name: Publications
+    web_url: publications
+    image_url: img/publications.png
+
+  - name: Slides and Notes
+    web_url: slides
+    image_url: img/slides.png
+
+  
 
