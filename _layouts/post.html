@@ -1,6 +1,6 @@
 {% include header.html %}
 
-<!-- {% capture post_body %}
+{% capture post_body %}
   {% if site.social_media %}
     {% assign shareable_social_media = '' | split: ',' %}
 
@@ -15,7 +15,7 @@
 
     {% assign total_shareable_services = shareable_social_media | size %}
 
-    {% if total_shareable_services > 0 %}
+    {% if total_shareable_services > 10 %}
       <div class="col-sm-4 col-lg-3 d-flex flex-wrap flex-items-center d-sm-block float-sm-right border rounded-2 bg-white p-3 mb-5 ml-md-5">
         <h3 class="text-gray-dark mr-3 mr-sm-0">Share</h3>
         <ul class="d-flex d-sm-block list-style-none">
@@ -33,7 +33,7 @@
   <div class="article">
     {{ content }}
   </div>
-{% endcapture %} -->
+{% endcapture %}
 
 {% if site.layout == 'stacked' %}
   <div class="container-lg py-6 p-responsive text-center">
