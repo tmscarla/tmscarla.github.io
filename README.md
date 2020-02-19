@@ -1,3 +1,3 @@
 # @tmscarla
 
-My personal website.
+My personal landing page.
