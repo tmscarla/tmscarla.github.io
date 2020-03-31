@@ -49,18 +49,6 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Datashack 2019
-    web_url: datashack
-    image_url: img/iacs.png
-
-  - name: Spotify RecSys Challenge 2018
-    web_url: spotify_recsys
-    image_url: img/spotify.png
-
-  - name: Pocket Maths 2013
-    web_url: pocket_maths
-    image_url: img/pocket_maths.png
-
   - name: Publications
     web_url: publications
     image_url: img/publications.png
@@ -68,6 +56,24 @@ topics:
   - name: Slides and Notes
     web_url: slides
     image_url: img/slides.png
+
+  - name: Datashack (2019)
+    web_url: datashack
+    image_url: img/iacs.png
+
+  - name: Spotify RecSys Challenge (2018)
+    web_url: spotify_recsys
+    image_url: img/spotify.png
+
+  - name: Tenbuilders (2015)
+    web_url: tenbuilders
+    image_url: img/tenbuilders.png
+
+  - name: Pocket Maths (2013)
+    web_url: pocket_maths
+    image_url: img/pocket_maths.png
+
+
 
   
 
