@@ -55,7 +55,11 @@ topics:
 
   - name: Spotify RecSys Challenge 2018
     web_url: spotify_recsys
-    image_url: https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png
+    image_url: img/spotify.png
+
+  - name: Pocket Maths 2013
+    web_url: pocket_maths
+    image_url img/pocket_maths.png
 
   - name: Publications
     web_url: publications
