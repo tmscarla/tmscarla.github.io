@@ -59,7 +59,7 @@ topics:
 
   - name: Pocket Maths 2013
     web_url: pocket_maths
-    image_url img/pocket_maths.png
+    image_url: img/pocket_maths.png
 
   - name: Publications
     web_url: publications
