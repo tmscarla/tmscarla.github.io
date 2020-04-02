@@ -1,11 +1,9 @@
 ---
 title: "Facing quarter-life crisis in quarantine"
-published: true
+published: false
 preview: "A controversial introspection in a tough time."
 layout: post
 ---
-
-**Facing quarter-life crisis in quarantine**
 
 <p>
 The next 30th of April I will be twenty-five years old, a quarter of a century.<br>
