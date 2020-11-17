@@ -60,7 +60,7 @@ topics:
 
   - name: Good Reads
     web_url: good_reads
-    image_url: img/good_reads.png
+    image_url: img/books.png
 
   - name: FAWLTS (2020)
     web_url: fawlts
