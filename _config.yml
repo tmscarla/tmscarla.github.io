@@ -23,7 +23,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 4
+  limit: 6
   exclude:
     archived: false
     forks: false
@@ -57,6 +57,10 @@ topics:
   - name: Slides and Notes
     web_url: slides
     image_url: img/slides.png
+
+  - name: FAWLTS (2020)
+    web_url: fawlts
+    image_url: img/fawlts_logo.png
 
   - name: Datashack (2019)
     web_url: datashack

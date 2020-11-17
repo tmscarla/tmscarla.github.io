@@ -1,5 +1,5 @@
 ---
-title: "Facing quarter-life crisis in quarantine"
+title: "Facing quarter-life crisis in the middle of a pandemic"
 published: false
 preview: "A controversial introspection in a tough time."
 layout: post
