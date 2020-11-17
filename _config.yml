@@ -58,6 +58,10 @@ topics:
     web_url: slides
     image_url: img/slides.png
 
+  - name: Good Reads
+    web_url: good_reads
+    image_url: img/good_reads.png
+
   - name: FAWLTS (2020)
     web_url: fawlts
     image_url: img/fawlts_logo.png
