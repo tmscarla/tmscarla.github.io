@@ -62,6 +62,10 @@ topics:
   - name: Good Reads
     web_url: good_reads
     image_url: img/books.png
+  
+  - name: Darione BBQ (2023)
+    web_url: darione_bbq
+    image_url: img/dbbq_logo.png
 
   - name: FAWLTS (2020)
     web_url: fawlts
